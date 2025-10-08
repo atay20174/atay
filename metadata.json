@@ -1,0 +1,5 @@
+{
+  "name": "موديل نزيه (Nazih Model)",
+  "description": "An AI-powered application that transforms user-uploaded images of clothing into professional, high-fashion product photos on an invisible mannequin. Users can select poses, backgrounds, and artistic styles to generate the perfect image.",
+  "requestFramePermissions": []
+}
